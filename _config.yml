@@ -6,9 +6,10 @@ color:
   saturation: 0.9061892076861113
   rhythmicContrast: 0.651240645442158
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: kazakov.gallery
+title: Living with Dfergos
