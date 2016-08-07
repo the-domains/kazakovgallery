@@ -1,4 +1,3 @@
-layout_spectrum: 0.9817983321845531
 typography_spectrum: 0.9154124020133168
 color:
   brandStrength: 0.027178843040019274
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9817983321845531
 name: kazakov.gallery
 title: Living with Dfergos
+description: life is art-art is life
