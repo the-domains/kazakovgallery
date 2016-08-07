@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kazakov.gallery]]></title>
-        <description><![CDATA[kazakov.gallery]]></description>
+        <title><![CDATA[Living with Dfergos]]></title>
+        <description><![CDATA[Living with Dfergos]]></description>
         <link>https://thegrid.ai/kazakovgallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 03:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 03:40:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kazakovgallery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c380e0-5532-4880-a4f0-d8f0c146e7c9.jpg">]]></description>
+            <link>https://thegrid.ai/kazakovgallery/8fc0bbc6-286c-44b0-81f5-4c0e768db43b/index.html</link>
+            <guid isPermaLink="false">8fc0bbc6-286c-44b0-81f5-4c0e768db43b</guid>
+            <pubDate>Sun, 07 Aug 2016 03:40:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design Indaba 2016: Interview With Jaime Hayon]]></title>
             <description><![CDATA[<article><h1>Design Indaba 2016: Interview With Jaime Hayon</h1><p>It's four o'clock in the morning and Jaime Hayon is still going full speed, sitting on a couch in Cape Town, candidly telling us about the time he tattooed one of the world's top tattoo artists. Had he ever inked somebody before? Nope, and he never did again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f86a6be147d551b27ad334ff404c5fb1ce9b36.jpg"></article>]]></description>
