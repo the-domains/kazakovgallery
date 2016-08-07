@@ -11,6 +11,14 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.9817983321845531
+author:
+  name: Aleksey Kazakov
+  email: alekseykazakov@hotmail.com
+  url: www.kazakov.gallery
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02921ed7-0410-430b-8c7d-27c36c13bc31.gif
 name: kazakov.gallery
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b239aaa7-0c0d-48de-a147-1603e46c5757.tif
 title: Living with Dfergos
 description: life is art-art is life
